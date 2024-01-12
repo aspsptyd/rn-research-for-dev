@@ -5,7 +5,7 @@ Kumpulan kodingan untuk pendukung develop React Native
 Sebelumnya `CTRL` + `C` untuk stop service running react native lalu tutup `X Code`, jalankan
 
 ```.sh
-$ git checkout master
+$ git checkout bnb-rn
 $ cd ios/
 $ pod install
 $ yarn start
@@ -20,3 +20,9 @@ Running kembali baik di `android` atau `ios`
 Record: 
 
 https://github.com/aspsptyd/rn-research-for-dev/assets/98740335/a0cd6985-e926-4433-a4b2-310908d52f2b
+
+- Bottom Navigation Bar : https://github.com/aspsptyd/rn-research-for-dev/wiki/BottomTabNavigationBar-:-With-Stack
+
+Record:
+
+https://github.com/aspsptyd/rn-research-for-dev/assets/98740335/395b2daf-e840-4c95-be14-38ff5bd431fc
