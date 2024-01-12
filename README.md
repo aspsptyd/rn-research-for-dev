@@ -5,3 +5,4 @@ Kumpulan kodingan untuk pendukung develop React Native
 
 - Navigate To Another Stack : https://github.com/aspsptyd/rn-research-for-dev/wiki/React-Navigation:-Parent-&-Child-Stack
 - Bottom Navigation Bar : https://github.com/aspsptyd/rn-research-for-dev/wiki/BottomTabNavigationBar-:-With-Stack
+- Custom Style Bottom Navigation Bar : https://github.com/aspsptyd/rn-research-for-dev/wiki/Bottom-Navigation-Bar-Custom-Style
