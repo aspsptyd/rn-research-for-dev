@@ -11,7 +11,7 @@ $ pod install
 $ yarn start
 ```
 
-Running kembali
+Running kembali baik di `android` atau `ios`
 
 ![GitHub forks](https://img.shields.io/github/forks/aspsptyd/rn-research-for-dev.svg) ![GitHub contributors](https://img.shields.io/github/contributors/aspsptyd/rn-research-for-dev.svg) ![GitHub top language](https://img.shields.io/github/languages/top/aspsptyd/rn-research-for-dev.svg)
 
