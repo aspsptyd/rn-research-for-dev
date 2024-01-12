@@ -1,6 +1,18 @@
 # React Native Research for Develop
 Kumpulan kodingan untuk pendukung develop React Native
 
+## Sebelum Running, Eksekusi Command dibawah ini
+Sebelumnya `CTRL` + `C` untuk stop service running react native lalu tutup `X Code`, jalankan
+
+```.sh
+$ git checkout bnb-rn-custom
+$ cd ios/
+$ pod install
+$ yarn start
+```
+
+Running kembali baik di `android` atau `ios`
+
 ![GitHub forks](https://img.shields.io/github/forks/aspsptyd/rn-research-for-dev.svg) ![GitHub contributors](https://img.shields.io/github/contributors/aspsptyd/rn-research-for-dev.svg) ![GitHub top language](https://img.shields.io/github/languages/top/aspsptyd/rn-research-for-dev.svg)
 
 - Navigate To Another Stack : https://github.com/aspsptyd/rn-research-for-dev/wiki/React-Navigation:-Parent-&-Child-Stack
