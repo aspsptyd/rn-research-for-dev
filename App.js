@@ -52,21 +52,21 @@ const Tab = createBottomTabNavigator();
 function App() {
   return (
     <NavigationContainer>
-      <Tab.Navigator 
-        screenOptions={{ 
+      <Tab.Navigator
+        screenOptions={{
           headerShown: true,
           tabBarStyle: {
             backgroundColor: '#3E48A0',
           },
         }}
       >
-        <Tab.Screen 
-          name="Home" 
-          component={Home} 
+        <Tab.Screen
+          name="Home"
+          component={Home}
           options={{
             tabBarLabel: 'Home',
             tabBarIcon: ({ focused }) => (
-              <View >
+              <View>
                   {focused ? (
                     <HomeNavBarActive width={25} height={25} />
                   ) : (
@@ -76,9 +76,9 @@ function App() {
             ),
           }}
         />
-        <Tab.Screen 
-          name="Sleep" 
-          component={Sleep} 
+        <Tab.Screen
+          name="Sleep"
+          component={Sleep}
           options={{
             tabBarLabel: 'Sleep',
             tabBarIcon: ({ focused }) => (
@@ -92,9 +92,9 @@ function App() {
             ),
           }}
         />
-        <Tab.Screen 
-          name="Performance" 
-          component={Performance} 
+        <Tab.Screen
+          name="Performance"
+          component={Performance}
           options={{
             tabBarLabel: 'Performance',
             tabBarIcon: ({ focused }) => (
@@ -108,9 +108,9 @@ function App() {
             ),
           }}
         />
-        <Tab.Screen 
-          name="Settings" 
-          component={Settings} 
+        <Tab.Screen
+          name="Settings"
+          component={Settings}
           options={{
             tabBarLabel: 'Settings',
             tabBarIcon: ({ focused }) => (
